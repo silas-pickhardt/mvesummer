@@ -1,9 +1,29 @@
 ---
-title: "MedVet Entomology Skills Course"
+title: "Silas' Scientific Skills"
 ---
 
-## Welcome!
+## Welcome Scholars and Interns!
 
-This is the central hub for the summer skills course! Here, you will find the
+This is the central hub for the summer skills course! Here, you will find all the necessary workflows to follow along in this course.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The skills that will be covered in this course include:
+
+-  Cloud services (e.g. OneDrive, TEAMS)
+
+- File management and naming
+
+- Data management and analysis
+
+- Literature review reference management
+
+- Microsoft suite (Word, PowerPoint, Outlook, Excel)
+
+- Organization
+
+- Presenting scientific information
+
+- Professional communication
+
+-  The scientific method
+
+- Scientific writing
