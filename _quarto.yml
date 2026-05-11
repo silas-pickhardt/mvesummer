@@ -1,9 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "mvesummer"
-  navbar:
+  navbar: 
     left:
       - href: index.qmd
         text: Home
